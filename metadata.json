@@ -1,0 +1,8 @@
+{
+  "name": "Daawo Finder - Medicine & Pharmacy Locator",
+  "description": "Comprehensive medicine search and pharmacy stock locator platform with real-time availability, AI symptom advisor, and pharmacy inventory management.",
+  "permissions": [],
+  "capabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
